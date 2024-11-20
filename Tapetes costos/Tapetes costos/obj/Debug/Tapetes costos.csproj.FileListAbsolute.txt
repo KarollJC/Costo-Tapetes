@@ -5,3 +5,10 @@ C:\Users\CC2_PC24\Documents\SharpDevelop Projects\Tapetes costos\Tapetes costos\
 C:\Users\CC2_PC24\Documents\SharpDevelop Projects\Tapetes costos\Tapetes costos\obj\Debug\Tapetes costos.csproj.GenerateResource.Cache
 C:\Users\CC2_PC24\Documents\SharpDevelop Projects\Tapetes costos\Tapetes costos\obj\Debug\Tapetes costos.exe
 C:\Users\CC2_PC24\Documents\SharpDevelop Projects\Tapetes costos\Tapetes costos\obj\Debug\Tapetes costos.pdb
+C:\Users\CC2_PC24\Tapetes-Costos\Tapetes costos\Tapetes costos\bin\Debug\Tapetes costos.exe
+C:\Users\CC2_PC24\Tapetes-Costos\Tapetes costos\Tapetes costos\bin\Debug\Tapetes costos.pdb
+C:\Users\CC2_PC24\Tapetes-Costos\Tapetes costos\Tapetes costos\obj\Debug\Tapetes costos.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC24\Tapetes-Costos\Tapetes costos\Tapetes costos\obj\Debug\Tapetes_costos.MainForm.resources
+C:\Users\CC2_PC24\Tapetes-Costos\Tapetes costos\Tapetes costos\obj\Debug\Tapetes costos.csproj.GenerateResource.Cache
+C:\Users\CC2_PC24\Tapetes-Costos\Tapetes costos\Tapetes costos\obj\Debug\Tapetes costos.exe
+C:\Users\CC2_PC24\Tapetes-Costos\Tapetes costos\Tapetes costos\obj\Debug\Tapetes costos.pdb
